@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-# name: Shin ju hyun
-## age: 2006/01/04
-### sex: Male
+#H1 name: Shin ju hyun
+##H2 age: 2006/01/04
+###H3 sex: Male
 
-- 소속: 컴퓨터공학전공
+1.소속: 컴퓨터공학전공
 
-- 학년: 2학년
+2.학년: 2학년
 
-- 강점: 포기하지 않는 마음
+3.강점: 포기하지 않는 마음
 
-- 약점: 멘탈이 약함
+4.약점: 멘탈이 약함
 
-**고등학교 때와 달리 성실히 하는 습관이 늘어나고, 준비를 철저히 하는 편입니다.**
+'고등학교 때와 달리 성실히 하는 습관이 늘어나고, 준비를 철저히 하는 편입니다.'
 
 <!--
 **shin-ju-hyun104/shin-ju-hyun104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
