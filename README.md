@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#H1 name: Shin ju hyun
-##H2 age: 2006/01/04
-###H3 sex: Male
+# name: Shin ju hyun
+## age: 2006/01/04
+### sex: Male
 
 1.소속: 컴퓨터공학전공
 
